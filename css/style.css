@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 2000px;
+}
+
+.background-property {
+    width: 1080px;
+    height: 560px;
+    margin: 0 auto;
+
+    /*    background-color: aqua;*/
+    background-image: url(../img/bg3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+
+.background-property1 {
+    width: 1080px;
+    height: 560px;
+    margin: 0 auto;
+    background-image: url(../img/bg1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-attachment: scroll;
+
+}
+
+.background-property2 {
+    width: 1080px;
+    height: 560px;
+    margin: 0 auto;
+
+    background-image: url(../img/bg2.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+.box2 {
+    
+}
+
+
